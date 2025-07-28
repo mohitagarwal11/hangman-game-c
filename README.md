@@ -13,16 +13,19 @@ Each wrong guess adds a part to the hangman drawing.<br>
 - Visual hangman drawing using ASCII art<br>
 - Win/loss conditions with clear messages<br>
 <br>
- ## Concepts Used<br>
+## Concepts Used<br>
 - Arrays and Strings<br>
 - Nested loops and conditional logic<br>
 - Functions and modular code<br>
-- Random number generation(rand)<br>
+- Random number generation (rand)<br>
 - Input handling and flushing buffer safely<br>
 <br>
- ## Future Improvements<br>
+## Future Improvements<br>
 - Allow user-defined word sets<br>
 - Save scores or track performance<br>
 - GUI version using C graphics or porting to Python<br>
----<br>
+<br>
+---
+<br>
 Feel free to explore and try it out!
+
