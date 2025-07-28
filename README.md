@@ -1,7 +1,7 @@
 # Hangman Game in C
 
 A console-based Hangman game written in C.  
-This project helped me apply and improve my understanding of arrays, loops, strings, and basic logic in a fun and interactive way.
+This project helped me apply and improve my understanding of arrays, loops, strings, handling user input and basic logic implementation in a fun way.
 
 <br>
 
@@ -29,7 +29,7 @@ Each wrong guess adds a part to the hangman drawing.
 - Nested loops and conditional logic  
 - Functions and modular code  
 - Random number generation (rand)  
-- Input handling and flushing buffer safely
+- Input handling
 
 <br>
 
@@ -37,7 +37,7 @@ Each wrong guess adds a part to the hangman drawing.
 
 - Allow user-defined word sets  
 - Save scores or track performance  
-- GUI version using C graphics or porting to Python
+- Create a GUI or Web version of the game
 
 ---
 
